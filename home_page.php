@@ -22,7 +22,7 @@
 	<html>
 		<head>
 			<title>CSRF Synchronizer Token Pattern</title>
-            <link rel="stylesheet" type="text/css" href="all_styles.css">
+            <link rel="stylesheet" type="text/css" href="source_style.css">
         	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         	<script>
         
